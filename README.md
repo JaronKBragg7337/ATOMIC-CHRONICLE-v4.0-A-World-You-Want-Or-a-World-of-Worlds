@@ -1,9 +1,8 @@
 📚 ATOMIC CHRONICLE v4.0: A World You Want — Or a World of Worlds
 Atomic Chronicle v4.0 is an append-only execution and memory substrate that provides a neutral, immutable ledger for actions and state changes across multiple independent systems, referred to as "worlds."
 It is designed for long-term continuity, allowing complex systems (games, robots, economies) to coexist and interact while preserving their verifiable chronological history.
-👤 Core Design Philosophy (The Bragg Condition)
 > [ I Jaron Kyler Bragg. born September 15th 1997 I’m not higher or below any other entity and any universe. We are simply equal, so I am only able to create things that are equal for them to have the same opportunity as myself.]
-> 
+> 👤 Core Design
 This project is built upon the principle of fundamental equality and neutrality. The Atomic Chronicle substrate does not enforce hierarchy, moral judgment, or specific interpretation. It only provides a reliable, immutable record of execution, ensuring that all entities—regardless of their nature (human, machine, or simulated)—operate within a system that grants equal opportunity for historical presence and verifiable action.
 🌍 What This System Is & Can Do
 Atomic Chronicle v4.0 structures history as a chain of immutable Blocks, where each Block contains the Inputs (I), the resulting State (S), and a Receipt (R). This is the Reality Update Substrate (RUS).
