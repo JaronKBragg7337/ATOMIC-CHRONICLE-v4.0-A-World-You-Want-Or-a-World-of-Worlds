@@ -56,3 +56,4 @@ Running the System
    * Toggle a Runtime Feature: POST http://0.0.0.0:8080/toggle/enable_energy_world with body: {"value": false}
 ⚠️ Design Position
 Atomic Chronicle is a neutral substrate. It is designed to preserve memory for future analysis. It explicitly does not enforce morality or intent. It can be used to build worlds that are beneficial, exploitative, or ambiguous. The record remains the same regardless of interpretation.
+https://jaronkbragg7337.github.io/persistent-memory-substrate/
